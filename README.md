@@ -1,4 +1,5 @@
 # 2048-bot
-================
 
-`python 2048-bot.py`
+bots that play 2048
+
+run using `python 2048-bot.py`
